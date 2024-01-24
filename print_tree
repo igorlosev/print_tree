@@ -1,0 +1,5 @@
+     repo.print_tree()
+    elif command[0] == 'exit':
+        break
+    else:
+        print("Invalid command. Try again.")
